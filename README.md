@@ -1,3 +1,5 @@
+HỌ TÊN: LÊ TÚ NAM
+MÃ SV:2A202600109
 # SQLite MCP Server Lab
 
 A production-quality MCP server built with **FastMCP** that exposes a SQLite database through safe, validated tools and schema resources. Supports HTTP transport with Bearer token authentication, and is architected to support both SQLite and PostgreSQL behind a shared interface.
