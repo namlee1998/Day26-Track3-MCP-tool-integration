@@ -1,0 +1,5 @@
+fastmcp
+pytest
+psycopg[binary]
+uvicorn
+starlette
